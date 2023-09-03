@@ -1,4 +1,4 @@
-# Evaluate-KNN-Model-Performance
+# KNN-Clasification-Model
 The KNN algorithm is a popular machine learning technique used for classification and regression tasks. 
 
 In this particular code snippet, the KNN model has already been trained using a set of labeled data. The purpose of the snippet is to assess the model's performance by computing its accuracy on the training data. 
